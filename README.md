@@ -1,6 +1,6 @@
 # FlavorGraph - A Recipe Search Application
 
-FlavorGraph is a Python web application that allows users to search for recipes based on ingredients. The application uses a CSV file to store recipe data and provides a simple frontend for user interaction. It also includes features for viewing all recipes and searching by multiple ingredients.
+FlavorGraph is a Python web application designed to help users discover and search for recipes based on the ingredients they have on hand. The application provides a user-friendly interface that allows users to input ingredients and fetch matching recipes from a database. It also includes features for viewing all available recipes and searching by multiple ingredients, making it a versatile tool for home cooks and food enthusiasts.
 
 ## Project Structure
 
